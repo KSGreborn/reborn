@@ -37,13 +37,13 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
 	"button1Page4":"yes",
 	"button2Page4":"no",
-	"isPage5Activate":false,
+	"isPage5Activate":true,
 		//content Page 5
 	"textPage5":"choose boy or girl",
 	"button1Page5":"boy",
@@ -70,6 +70,6 @@
 	"New_Package_Name":"com.outfit7.herodash",
 	"Version_Code": 2,
 	"Description_dialog":"Instaal now new version Les joueurs sautent",
-	"Is_Force":false
+	"Is_Force":true
 
 }
