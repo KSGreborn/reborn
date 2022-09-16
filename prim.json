@@ -30,20 +30,20 @@
 	"popAppName": "install app",
 	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
 	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive_first": false,
+	"popAppIsActive_first": true,
 	"popAppIsActive_browser": false,
 	"Interval_Time":20000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
 	"button1Page4":"yes",
 	"button2Page4":"no",
-	"isPage5Activate":true,
+	"isPage5Activate":false,
 		//content Page 5
 	"textPage5":"choose boy or girl",
 	"button1Page5":"boy",
