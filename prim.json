@@ -1,7 +1,7 @@
 {
     
     "ENABLE_Ads":true,  
-	"APP_KEY": "fS7776633",
+	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -24,11 +24,11 @@
 	"SwitchAds": 2,
 	"MaxClick": 3,
 
-	"MoreApps": "667733",
+	"MoreApps": "57553",
 
 	"popAppLink": "https://coinmarketcap.com/",
 	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc?export=download&id=1tGqVFnjBpRUAWPNAFUUkD3Bxwo7k_bi2",
+	"popAppImage": "https://drive.google.com/uc2",
 	"popAppPackage": "com.reservshop.rehopping",
 	"popAppIsActive_first": false,
 	"popAppIsActive_browser": false,
@@ -53,21 +53,21 @@
 	
 	//cpa image banner
     "Visibility_image_cpa":false,
-    "Url_Image_Cpa":"https://www.google.com/",
-    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+    "Url_Image_Cpa":"https://",
+    "Image_View_cpa":"https://drive.google.com/",
 
 	"URLs": [
 
 		{
-			"title": "facebook",
+			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://smrturl.co/o/132730/53177516"
+			"url": "https://"
 		}
 	
 
 	],
 	// update Dialog 
-	"New_Package_Name":"com.outfit7.herodash",
+	"New_Package_Name":"com",
 	"Version_Code": 1,
 	"Description_dialog":"Instaal now new version Les joueurs sautent",
 	"Is_Force":false
