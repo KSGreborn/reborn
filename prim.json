@@ -68,7 +68,7 @@
 	],
 	// update Dialog 
 	"New_Package_Name":"com.outfit7.herodash",
-	"Version_Code": 2,
+	"Version_Code": 1,
 	"Description_dialog":"Instaal now new version Les joueurs sautent",
 	"Is_Force":false
 
