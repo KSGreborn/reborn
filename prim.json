@@ -30,7 +30,7 @@
 	"popAppName": "Get Your Gift Card",
 	"popAppImage": "https://i.ibb.co/Dwhq4ws/prim.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
+	"popAppIsActive_first": true,
 	"popAppIsActive_browser": true,
 	"Interval_Time":40000, 
   
