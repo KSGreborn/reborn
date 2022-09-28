@@ -12,9 +12,9 @@
 
 	"APPLOVIN_BANNER_ID": "0319fc8ef2c823a2",
 	"APPLOVIN_INTERSTITIAL_ID": "909de473d916e211",
-	"Quize_Link":"https://github.com/",
+	"Quize_Link":"https://t.co/EJltgN1tY0",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":false,
+	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -26,13 +26,13 @@
 
 	"MoreApps": "57553",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc2",
-	"popAppPackage": "com.reservshop.rehopping",
+	"popAppLink": "https://t.co/EJltgN1tY0",
+	"popAppName": "Get Your Gift Card",
+	"popAppImage": "https://i.ibb.co/Dwhq4ws/prim.jpg",
+	"popAppPackage": "",
 	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
-	"Interval_Time":20000, 
+	"popAppIsActive_browser": true,
+	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://www.primark.com/"
+			"url": "https://t.co/kXFK2pRxY4"
 		}
 	
 
