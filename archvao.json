@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":false,  
+    "ENABLE_Ads":true,  
 	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -10,8 +10,8 @@
 	 "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
 	 
 
-	"APPLOVIN_BANNER_ID": "793766d5d28700eb",
-	"APPLOVIN_INTERSTITIAL_ID": "ebbf384a022ae1a8",
+	"APPLOVIN_BANNER_ID": "3fe9bf293afbac9e",
+	"APPLOVIN_INTERSTITIAL_ID": "f70ec55c5274ad7a",
 	"Quize_Link":"https://github.com/",
 	"ENABLE_Quize_ONBACK":false,
 	"ENABLE_Quize_ONBROWSER":false,
@@ -37,7 +37,7 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://"
+			"url": "https://t.co/AOE569TCc9"
 		}
 	
 
