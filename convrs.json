@@ -14,7 +14,7 @@
 	"APPLOVIN_INTERSTITIAL_ID": "5f882e4eba5dedfa",
 	"Quize_Link":"https://bit.ly/converse750",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -27,7 +27,7 @@
 	"MoreApps": "57553",
 
 	"popAppLink": "https://smrturl.co/o/132730/53177516",
-	"popAppName": "Get Gift Now!",
+	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/X887kbq/cnvrsgift.jpg",
 	"popAppPackage": "",
 	"popAppIsActive_first": true,
