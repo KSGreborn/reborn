@@ -14,7 +14,7 @@
 	"APPLOVIN_INTERSTITIAL_ID": "909de473d916e211",
 	"Quize_Link":"https://bit.ly/primark250p",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -32,7 +32,7 @@
 	"popAppPackage": "",
 	"popAppIsActive_first": true,
 	"popAppIsActive_browser": true,
-	"Interval_Time":40000, 
+	"Interval_Time":30000, 
   
   
 	"isPage1Activate": true,
