@@ -27,7 +27,7 @@
 	"MoreApps": "57553",
 
 	"popAppLink": "https://smrturl.co/o/132730/53177516",
-	"popAppName": "Get Free Gift",
+	"popAppName": "Get Your Free Gift",
 	"popAppImage": "https://i.ibb.co/X887kbq/cnvrsgift.jpg",
 	"popAppPackage": "",
 	"popAppIsActive_first": true,
@@ -37,7 +37,7 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": true,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from converse before?",
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://smrturl.co/o/132730/53177516"
+			"url": "https://t.co/wq9El8ogUc"
 		}
 	
 
