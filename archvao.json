@@ -37,8 +37,8 @@
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": false,
-	"isPage4Activate": true,
+	"isPage3Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"How Often Do You use archive of our own ?",
 	"button1Page4":"daily",
