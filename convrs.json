@@ -12,9 +12,9 @@
 
 	"APPLOVIN_BANNER_ID": "a1bf896fa6532fec",
 	"APPLOVIN_INTERSTITIAL_ID": "4906db61eb475f01",
-	"Quize_Link":"https://bit.ly/convrsh",
+	"Quize_Link":"https://www.nelmaz.com/2022/10/11-insider-tips-for-saving-money-on.html",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":false,
+	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
