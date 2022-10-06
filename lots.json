@@ -12,9 +12,9 @@
 
 	"APPLOVIN_BANNER_ID": "2d28b788f74edda3",
 	"APPLOVIN_INTERSTITIAL_ID": "fc1c021c02a0c255",
-	"Quize_Link":"https://github.com/",
+	"Quize_Link":"https://www.nelmaz.com/2022/10/loan-protection-insurance-right.html",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":false,
+	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
