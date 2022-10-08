@@ -22,17 +22,17 @@
 	"UNITY_TEST_MODE": false,
 
 	"SwitchAds": 2,
-	"MaxClick": 4,
+	"MaxClick": 5,
 
 	"MoreApps": "57553",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc2",
-	"popAppPackage": "com.reservshop.rehopping",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
-	"Interval_Time":20000, 
+	"popAppLink": "https://smrturl.co/o/132730/53177516",
+	"popAppName": "Get Free Gift",
+	"popAppImage": "https://i.ibb.co/wyqcgCY/arch.png",
+	"popAppPackage": "",
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
+	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
