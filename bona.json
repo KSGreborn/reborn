@@ -1,0 +1,75 @@
+{
+    
+    "ENABLE_Ads":false,  
+	"APP_KEY": "fS76567633",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+	 "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
+	 
+
+	"APPLOVIN_BANNER_ID": "793766d5d28700eb",
+	"APPLOVIN_INTERSTITIAL_ID": "ebbf384a022ae1a8",
+	"Quize_Link":"https://github.com/",
+	"ENABLE_Quize_ONBACK":false,
+	"ENABLE_Quize_ONBROWSER":false,
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 2,
+	"MaxClick": 3,
+
+	"MoreApps": "57553",
+
+	"popAppLink": "https://coinmarketcap.com/",
+	"popAppName": "install app",
+	"popAppImage": "https://drive.google.com/uc2",
+	"popAppPackage": "com.reservshop.rehopping",
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
+	"Interval_Time":20000, 
+  
+  
+	"isPage1Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
+    	//content Page 4
+	"textPage4":"choose yes or no",
+	"button1Page4":"yes",
+	"button2Page4":"no",
+	"isPage5Activate":false,
+		//content Page 5
+	"textPage5":"choose boy or girl",
+	"button1Page5":"boy",
+	"button2Page5":"girl",
+	
+	"isPage6Activate": false,
+	
+	//cpa image banner
+    "Visibility_image_cpa":false,
+    "Url_Image_Cpa":"https://",
+    "Image_View_cpa":"https://drive.google.com/",
+
+	"URLs": [
+
+		{
+			"title": "site",
+			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
+			"url": "https://"
+		}
+	
+
+	],
+	// update Dialog 
+	"New_Package_Name":"com",
+	"Version_Code": 1,
+	"Description_dialog":"Instaal now new version Les joueurs sautent",
+	"Is_Force":false
+
+}
