@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":true,  
+    "ENABLE_Ads":false,  
 	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -14,7 +14,7 @@
 	"APPLOVIN_INTERSTITIAL_ID": "b6d99d7de960aeda",
 	"Quize_Link":"https://www.nelmaz.com/2022/10/loan-protection-insurance-right.html",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -30,14 +30,14 @@
 	"popAppName": "Get Free Gift Now",
 	"popAppImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
-	"isPage3Activate": true,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/kXFK2pRxY4"
+			"url": "https://"
 		}
 	
 
