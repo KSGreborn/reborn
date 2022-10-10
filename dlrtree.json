@@ -12,9 +12,9 @@
 
 	"APPLOVIN_BANNER_ID": "ad576dd354c05ca5",
 	"APPLOVIN_INTERSTITIAL_ID": "95efcb52037cdcdc",
-	"Quize_Link":"https://www.nelmaz.com/2022/10/12-dollar-tree-shopping-tips-to-help.html",
+	"Quize_Link":"https://www.nelmaz.com/2022/10/immigrate-to-canada-5-options-for.html",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":false,
+	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
