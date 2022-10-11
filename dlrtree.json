@@ -14,8 +14,7 @@
 	"APPLOVIN_INTERSTITIAL_ID": "95efcb52037cdcdc",
 	"Quize_Link":"https://t.co/pRUgPNgMqV",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
-	"Click_toShow_Quize": 4,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -23,7 +22,7 @@
 	"UNITY_TEST_MODE": false,
 
 	"SwitchAds": 0,
-	"MaxClick": 1,
+	"MaxClick": 2,
 
 	"MoreApps": "57553",
 
@@ -37,11 +36,11 @@
   
   
 	"isPage1Activate": true,
-	"isPage2Activate": true,
+	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Shopping?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate":false,
