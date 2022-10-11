@@ -14,14 +14,14 @@
 	"APPLOVIN_INTERSTITIAL_ID": "95efcb52037cdcdc",
 	"Quize_Link":"https://t.co/pRUgPNgMqV",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 0,
 	"MaxClick": 4,
 
 	"MoreApps": "57553",
