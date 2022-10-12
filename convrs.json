@@ -12,8 +12,8 @@
 
 	"APPLOVIN_BANNER_ID": "a1bf896fa6532fec",
 	"APPLOVIN_INTERSTITIAL_ID": "4906db61eb475f01",
-	"Quize_Link":"https://t.co/pRUgPNgMqV",
-	"ENABLE_Quize_ONBACK":false,
+	"Quize_Link":"https://t.co/kjCf3P86Se",
+	"ENABLE_Quize_ONBACK":true,
 	"ENABLE_Quize_ONBROWSER":true,
 
 	"UNITY_BANNER": "Android_Banner",
