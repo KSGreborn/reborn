@@ -38,7 +38,7 @@
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"Do You Like Shopping?",
 	"button1Page4":"yes",
