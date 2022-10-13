@@ -14,15 +14,15 @@
 	"APPLOVIN_INTERSTITIAL_ID": "3cb5236acb9cfbf5",
 	"Quize_Link":"https://t.co/kjCf3P86Se",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
-	"MaxClick": 4,
+	"SwitchAds": 0,
+	"MaxClick": 2,
 
 	"MoreApps": "57553",
 
@@ -30,17 +30,17 @@
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/gwJ2xKz/rossgift.jpg",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Shopping?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate":false,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/eYo3MLpL1v"
+			"url": "https://"
 		}
 	
 
