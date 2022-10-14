@@ -26,13 +26,13 @@
 
 	"MoreApps": "57553",
 
-	"popAppLink": "https://coinmarketcap.com/",
-	"popAppName": "install app",
-	"popAppImage": "https://drive.google.com/uc2",
-	"popAppPackage": "com.reservshop.rehopping",
+	"popAppLink": "https://t.co/2uc4Dev4Hj",
+	"popAppName": "Get Free Gift",
+	"popAppImage": "https://i.ibb.co/hYxZ83x/dolargift.jpg",
+	"popAppPackage": "",
 	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
-	"Interval_Time":20000, 
+	"popAppIsActive_browser": true,
+	"Interval_Time":40000, 
   
   
 	"isPage1Activate": true,
