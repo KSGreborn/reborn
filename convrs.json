@@ -32,7 +32,7 @@
 	"popAppPackage": "",
 	"popAppIsActive_first": false,
 	"popAppIsActive_browser": true,
-	"Interval_Time":40000, 
+	"Interval_Time":30000, 
   
   
 	"isPage1Activate": true,
