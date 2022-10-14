@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":false,  
+    "ENABLE_Ads":true,  
 	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -21,8 +21,8 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
-	"MaxClick": 3,
+	"SwitchAds": 0,
+	"MaxClick": 2,
 
 	"MoreApps": "57553",
 
@@ -38,9 +38,9 @@
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"choose yes or no",
+	"textPage4":"Do You Like Shopping?",
 	"button1Page4":"yes",
 	"button2Page4":"no",
 	"isPage5Activate":false,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/BPH4wfph6y"
+			"url": "https://"
 		}
 	
 
