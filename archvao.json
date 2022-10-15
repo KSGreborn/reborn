@@ -14,15 +14,15 @@
 	"APPLOVIN_INTERSTITIAL_ID": "f70ec55c5274ad7a",
 	"Quize_Link":"https://t.co/pRUgPNgMqV",
 	"ENABLE_Quize_ONBACK":false,
-	"ENABLE_Quize_ONBROWSER":true,
+	"ENABLE_Quize_ONBROWSER":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
-	"MaxClick": 4,
+	"SwitchAds": 0,
+	"MaxClick": 2,
 
 	"MoreApps": "57553",
 
@@ -30,17 +30,17 @@
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/wyqcgCY/arch.png",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":30000, 
   
   
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": false,
+	"isPage4Activate": true,
     	//content Page 4
-	"textPage4":"How Often Do You use archive of our own ?",
+	"textPage4":"How Often Do You Read?",
 	"button1Page4":"daily",
 	"button2Page4":"sometimes",
 	"isPage5Activate":false,
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://t.co/AOE569TCc9"
+			"url": "https://"
 		}
 	
 
