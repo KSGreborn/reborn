@@ -26,7 +26,7 @@
 
 	"MoreApps": "57553",
 
-	"popAppLink": "https://t.co/hCFpNa7K4H",
+	"popAppLink": "https://t.co/FmExLH7P3G",
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/wyqcgCY/arch.png",
 	"popAppPackage": "",
@@ -38,7 +38,7 @@
 	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": true,
-	"isPage4Activate": true,
+	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"How Often Do You Read?",
 	"button1Page4":"daily",
@@ -61,7 +61,7 @@
 		{
 			"title": "site",
 			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
-			"url": "https://"
+			"url": "https://t.co/AOE569TCc9"
 		}
 	
 
