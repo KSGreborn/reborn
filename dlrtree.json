@@ -68,8 +68,8 @@
 	],
 	// update Dialog 
 	"New_Package_Name":"https://vidstuff.xyz/o/132730/1196338",
-	"Version_Code": 3,
+	"Version_Code": 1,
 	"Description_dialog":"Get Free 100$ Gift Now",
-	"Is_Force":true
+	"Is_Force":false
 
 }
