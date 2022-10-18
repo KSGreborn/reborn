@@ -67,9 +67,9 @@
 
 	],
 	// update Dialog 
-	"New_Package_Name":"com",
-	"Version_Code": 1,
+	"New_Package_Name":"com.dollartreebig.lotsdollartreeshop",
+	"Version_Code": 3,
 	"Description_dialog":"Instaal now new version Les joueurs sautent",
-	"Is_Force":false
+	"Is_Force":true
 
 }
