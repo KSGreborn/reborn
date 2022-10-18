@@ -67,9 +67,9 @@
 
 	],
 	// update Dialog 
-	"New_Package_Name":"com",
-	"Version_Code": 1,
-	"Description_dialog":"Instaal now new version Les joueurs sautent",
-	"Is_Force":false
+	"New_Package_Name":"com.tkmaxxlots.tkmaxxfashion",
+	"Version_Code": 3,
+	"Description_dialog":"You Need To Install New Update",
+	"Is_Force":true
 
 }
