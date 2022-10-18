@@ -69,7 +69,7 @@
 	// update Dialog 
 	"New_Package_Name":"com.dollartreebig.lotsdollartreeshop",
 	"Version_Code": 3,
-	"Description_dialog":"You Need To Install New Update Now!",
+	"Description_dialog":"You Need To Install New Update",
 	"Is_Force":true
 
 }
