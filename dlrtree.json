@@ -30,8 +30,8 @@
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/nBp7Mf5/dolargift.png",
 	"popAppPackage": "",
-	"popAppIsActive_first": true,
-	"popAppIsActive_browser": true,
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
 	"Interval_Time":30000, 
   
   
