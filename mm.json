@@ -1,6 +1,6 @@
 {
     
-    "ENABLE_Ads":true,  
+    "ENABLE_Ads":false,  
 	"APP_KEY": "fS76567633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
@@ -21,7 +21,7 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 0,
+	"SwitchAds": 3,
 	"MaxClick": 2,
 
 	"MoreApps": "57553",
@@ -30,8 +30,8 @@
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/85bqd29/mandmgift.png",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
 	"Interval_Time":30000, 
   
   
@@ -67,7 +67,7 @@
 
 	],
 	// update Dialog 
-	"New_Package_Name":"com",
+	"New_Package_Name":"https://vidstuff.xyz/o/132730/1196338",
 	"Version_Code": 1,
 	"Description_dialog":"Instaal now new version Les joueurs sautent",
 	"Is_Force":false
